@@ -28,7 +28,7 @@
 - 💬 Main languages: **Python, Scala, Java**
 - 📫 How to reach me: **dmitri.mahayana@gmail.com**
 - 🚩 Interested in Data Engineer project
-- 🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1UybCP69ZWKp1qEkA7lVbhGHYl3GMezWh/view?usp=sharing" target="_blank">MY RESUME.</a>
+- 🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1abi7xcletF7Hg148pPGdp0B1hHE_CvA0/view" target="_blank">MY RESUME.</a>
 - ⚡ Fun fact: The first “computer bug” was an actual bug and it happened to my first computer
 
 <!--h1 without bottom border-->
